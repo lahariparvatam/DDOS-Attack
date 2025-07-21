@@ -1,12 +1,12 @@
 streamlit
 numpy
 pandas
-scikit-learn
 xgboost
-optuna
 seaborn
 matplotlib
 scipy
-imbalanced-learn
 tqdm
 joblib
+scikit-learn==1.1.3
+imbalanced-learn==0.10.1
+
